@@ -1,5 +1,3 @@
-# resolvendo-codigos-py-copilot-projeto
-
 # 🐍 Desafios Python: Jornada de Aprendizado com IA 🤖
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
@@ -8,6 +6,8 @@
 [![Educativo](https://img.shields.io/badge/Conteúdo-Educativo-orange.svg)](https://github.com)
 
 > **Uma jornada colaborativa entre humano e IA para dominar os fundamentos da programação Python através de desafios práticos e progressivos.**
+
+IA utilizada : [![Static Badge](https://img.shields.io/badge/ADAPTAONE-Claude_4_Sonnet-green)](https://go.adapta.org/campaign/ref-central?utm_content=8c7d75c827c2c86d)
 
 ---
 
@@ -970,19 +970,13 @@ Este projeto é um exemplo vivo de como **humanos e IA podem colaborar** para cr
 
 ---
 
-## 📜 **Licença**
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
 ## 🙏 **Agradecimentos**
 
 ### **À Comunidade Python** 🐍
 Por criar uma linguagem tão elegante e educativa
 
 ### **Aos Educadores** 👨‍🏫👩‍🏫
-Que inspiram através do ensino de programação
+Que inspiram através do ensino de programação pela [DIO.me](https://www.dio.me/sign-up?ref=E8125ECB49C74E7E9409FFD2D90C9486)
 
 ### **À Colaboração Humano-IA** 🤖🤝👨‍💻
 Por demonstrar o potencial da parceria tecnológica
@@ -994,8 +988,8 @@ Que levarão este projeto a novos patamares
 
 ## 📞 **Contato**
 
-- 🐙 **GitHub**: [@victorvlima]
-- 💼 **LinkedIn**: victorvlima
+- 🐙 **GitHub**: [victorvlima](https://github.com/victorvlima)
+- 💼 **LinkedIn**: [victorvlima](https://www.linkedin.com/in/victorvlima/)
 
 ---
 
