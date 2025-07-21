@@ -1,7 +1,7 @@
 """
 Desafio: Repetindo Textos ✏️
 Múltiplas implementações para repetição de strings
-Autor: Desenvolvido em conjunto
+Autor: Victor Lima e Claude 4 Sonnet
 """
 
 def solucao_basica():

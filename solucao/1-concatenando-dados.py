@@ -1,7 +1,7 @@
 """
 Desafio: Concatenando Dados 🐾
 Múltiplas implementações para concatenação de strings
-Autor: Desenvolvido em conjunto
+Autor: Victor Lima e Claude 4 Sonnet
 """
 
 def solucao_basica():
