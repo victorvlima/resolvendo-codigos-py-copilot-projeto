@@ -9,6 +9,12 @@
 
 IA utilizada : [![Static Badge](https://img.shields.io/badge/ADAPTAONE-Claude_4_Sonnet-green)](https://go.adapta.org/campaign/ref-central?utm_content=8c7d75c827c2c86d)
 
+- 🌱 I'm currently learning at [**DIO.me**](https://www.dio.me/sign-up?ref=E8125ECB49C74E7E9409FFD2D90C9486)
+
+- :mechanical_arm: I'm using [**ADAPTA ONE**](https://go.adapta.org/campaign/ref-central?utm_content=8c7d75c827c2c86d)
+
+- 👯 I'm looking to collaborate on [resolvendo-codigos-py-copilot](https://github.com/alinealien/resolvendo-codigos-py-copilot.git)
+
 ---
 
 ## 🎯 **Sobre Este Projeto**
